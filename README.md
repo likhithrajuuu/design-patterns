@@ -2,3 +2,4 @@
 |---|---|---|
 | [Singleton](./singleton/) ⭐️|
 | [Builder](./builder/) ⭐️|
+| [Factory Method](./factory/) ⭐️|
