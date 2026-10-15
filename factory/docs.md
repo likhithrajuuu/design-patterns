@@ -149,4 +149,3 @@ Real World Analogy:
 Think of a food delivery platform. you place an order. If the system is designed like a Simple Factory, there's one centralized kitchen deciding whether to cook pizza, sushi, or burgers.
 
 But with th Factory Method, each restuarant (Pizza Place, Sushi Bar, Burger Joint) has its own kitchen and knows how to prepare its food. The platform just asks the appropriate kitchen to handle it.
-
